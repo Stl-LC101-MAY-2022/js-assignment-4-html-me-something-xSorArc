@@ -1,1 +1,25 @@
 /* Write your CSS here! */
+#mainHeading {
+    color : red;
+    text-align: center;
+}
+
+body {
+    margin : 8px;
+    display: block;
+    background-image: url(https://th.bing.com/th/id/R.1d0e6a92c893057f7a6a4f07e8816982?rik=VFGFsb%2bBh99Keg&riu=http%3a%2f%2flow-carbon-energy-blog.co.uk%2fwp-content%2fuploads%2f2020%2f08%2fholy-grail-1536x847.jpg&ehk=Z3VhsGJZIw4RmoRzhVHNWNFDSz7OAXWluKtYPEXm0pw%3d&risl=&pid=ImgRaw&r=0);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.funParagraph {
+    color : green;
+}
+
+audio {
+    padding: 50px;
+}
+
+h2 {
+    text-align: center;
+}
